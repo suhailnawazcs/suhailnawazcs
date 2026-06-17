@@ -41,12 +41,10 @@ Building AI Products • Open Source Contributor • Future Technical PM
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### AI & Data
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
-![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
